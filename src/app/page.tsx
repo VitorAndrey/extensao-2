@@ -1,16 +1,19 @@
 import { HeroSection } from "@/components/hero-section";
-import { Collections } from "@/components/collections";
-import { News } from "@/components/news";
+import { Info } from "@/components/info";
+import { Content } from "@/components/content";
 import { GoogleForm } from "@/components/google-form";
+import { Comunity } from "@/components/comunity";
 
 export default function Home() {
   return (
     <>
       <HeroSection />
 
-      <Collections />
+      <Info />
 
-      <News />
+      <Content />
+
+      <Comunity />
 
       <GoogleForm />
     </>
