@@ -16,7 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Rotina Saldável",
+  title: "Rotina Saudável",
   description: "Aprenda a ter uma rotina saldavel mesmo com a correria!",
 };
 
